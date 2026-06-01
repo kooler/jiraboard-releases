@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>JiraBoard</title>
+        <item>
+            <title>1.4</title>
+            <pubDate>Mon, 01 Jun 2026 23:15:50 +0200</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://kooler.github.io/jiraboard-releases/JiraBoard-1.5.zip" length="3997590" type="application/octet-stream" sparkle:edSignature="VyUaaF2WNesRF/OCsxWqr/7suGqbb4yJKT+e+O4D6NSVt0KBPb7LhlEp+S2ramjer8bWr7ETLZnnIyvNgl3aAQ=="/>
+        </item>
+    </channel>
+</rss>
