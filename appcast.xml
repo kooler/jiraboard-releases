@@ -3,6 +3,24 @@
     <channel>
         <title>JiraBoard</title>
         <item>
+            <title>1.16</title>
+            <pubDate>Thu, 24 Sep 2026 12:40:54 +0200</pubDate>
+            <sparkle:fullReleaseNotesLink>https://kanbandesktop.com/releases.html</sparkle:fullReleaseNotesLink>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Release sidebar</p>
+]]></description>
+            <enclosure url="https://kooler.github.io/jiraboard-releases/KanbanDesktop-1.16.zip" length="5406372" type="application/octet-stream" sparkle:edSignature="ttuzbgjo74OzKC8KvVG3RE4uUdSGwne8ZCqaw8eVXa+bo7ZqMKDrTX+Szi9IQdD/gTMH/BqDQAqwBq90PSLMAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://kooler.github.io/jiraboard-releases/Kanban%20Desktop20-19.delta" sparkle:deltaFrom="19" length="2662258" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+oYedv/rJhPmkYi+dnaUBgd6uWVBXzUhCqqmQN65PSWTAmVTIUkjgXEFNC/LJdBbhTyCcIuaWN00V9SlCOJyCQ=="/>
+                <enclosure url="https://kooler.github.io/jiraboard-releases/Kanban%20Desktop20-18.delta" sparkle:deltaFrom="18" length="2663230" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8rQHv61s0D4vJhohz1bGabWWSL0Yb77SHKU8d+sCB6qifds1lkMpXtpH58soYwTU4nCMJEb66QJiZqwcQBZOCA=="/>
+                <enclosure url="https://kooler.github.io/jiraboard-releases/Kanban%20Desktop20-17.delta" sparkle:deltaFrom="17" length="2663806" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4jlCNjZLvf/pjz61vE9roOr51gnJE9PgjJm7Euxz2KDWT/t66nZpaO/QB11ch0B0vTV1aCVxZ1t7EcwuaLiqCA=="/>
+                <enclosure url="https://kooler.github.io/jiraboard-releases/Kanban%20Desktop20-16.delta" sparkle:deltaFrom="16" length="2664682" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KOvBJy7ThJlt98/Gmzjv1WRmGn+HQf8LYsE3kQoBeZjQXFMykpRPX4SP6cDVFjVcv1e0CoXKt3GMGJ1y8IfBAA=="/>
+                <enclosure url="https://kooler.github.io/jiraboard-releases/Kanban%20Desktop20-15.delta" sparkle:deltaFrom="15" length="2664254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ai9mjHrv2XxVWTmA/pTG6SmhCoMnFz7iQBxy/0PiqkuCSNeY9XEJbz2DkUVJ9LhobPThBtTSmkek6h0EoyupBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.15</title>
             <pubDate>Wed, 23 Sep 2026 18:01:15 +0200</pubDate>
             <sparkle:version>19</sparkle:version>
@@ -30,21 +48,6 @@
                 <enclosure url="https://kooler.github.io/jiraboard-releases/JiraBoard18-15.delta" sparkle:deltaFrom="15" length="2425110" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TtltHIRlOC4IVsiT82aXquV3e20DSsWB7T3xmYMsC6Py0Gl64ZoYDMeg/ZczqJDQtSXQaQSW+CEWWrXwgYMtAA=="/>
                 <enclosure url="https://kooler.github.io/jiraboard-releases/JiraBoard18-14.delta" sparkle:deltaFrom="14" length="2675742" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sPN92qlY5aLlv2ug0mjE7SlO565JEIoy+j2BRaX+r+dgwSQyP3BkjL2HtGow7D90OM7QKcGJlq91MkHTeiPRBA=="/>
                 <enclosure url="https://kooler.github.io/jiraboard-releases/JiraBoard18-13.delta" sparkle:deltaFrom="13" length="2684402" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="x7kOCU2fr5S/YMYFTiiVSDCWXinhjArcbRLOFRQHexFfE3RW+mfNdE9Sk+csMSQOA8dJsfGx/wtdNiHC2KwHAA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.13</title>
-            <pubDate>Fri, 11 Sep 2026 09:57:07 +0200</pubDate>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>1.13</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://kooler.github.io/jiraboard-releases/JiraBoard-1.13.zip" length="4087945" type="application/octet-stream" sparkle:edSignature="bJpmizeoYfJJKlycxQGuuUr6i+Z++WAPQZuQJIA4Xp4P+uUoK9UK5L81Tgp/erOollvpGI+/RedeZAm1oAidCQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://kooler.github.io/jiraboard-releases/JiraBoard17-16.delta" sparkle:deltaFrom="16" length="147570" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SQb3P+kudbGK+EtEDS4dKiUxRJqHzXzpg4vL/IXbU5qpXqlIurQ09aJH87XPrJZ0VbfTrftA4AtIKatw+PRJBw=="/>
-                <enclosure url="https://kooler.github.io/jiraboard-releases/JiraBoard17-15.delta" sparkle:deltaFrom="15" length="198818" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pg58azuoN0DXBYL4dsFGRt6faxEhyuR0jM45eZV6FLp5nFRjs12XUbZLtrlHl0TgMLz6V3tr8E+GKklJ6r+0DA=="/>
-                <enclosure url="https://kooler.github.io/jiraboard-releases/JiraBoard17-14.delta" sparkle:deltaFrom="14" length="1369702" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WK8A+HuOxze6Hnb2kVUUJnpjdHtUqVkbPfOkJLpunoq7Hl70Ce4peWAqrPXxuBB8YvtaO/NsECNAlGTttvxIAQ=="/>
-                <enclosure url="https://kooler.github.io/jiraboard-releases/JiraBoard17-13.delta" sparkle:deltaFrom="13" length="1383926" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SsuhtQFeO2fnPbMP3onifRQsI1GmK1FJ0RGq1TfZIFOfPalE3PalFYmBA2g+rM+tJc9KpAbjhoGjQfyw/bHADA=="/>
-                <enclosure url="https://kooler.github.io/jiraboard-releases/JiraBoard17-11.delta" sparkle:deltaFrom="11" length="1423082" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LgWkhBug/Ihc86wsObvd6Yw/d7w09nUKwtqdJNQ1eER/yeG01JWG29VChSM2TdFaIOuk0XNVetcAeUCWcnxbDg=="/>
             </sparkle:deltas>
         </item>
     </channel>
